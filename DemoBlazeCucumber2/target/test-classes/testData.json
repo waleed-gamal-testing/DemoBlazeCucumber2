@@ -1,0 +1,7 @@
+{
+  "existUserName": "test",
+  "validPassword": "test",
+  "uniqueUserName2": "waleedgamal19966",
+  "existingEmails": ["existing1@example.com", "existing2@example.com"],
+  "invalidPasswords": ["short", "123"]
+}
